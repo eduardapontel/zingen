@@ -57,7 +57,7 @@ The styling is organized into multiple files to maintain separation of concerns:
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```bash git clone https://github.com/eduardapontel/invitation-form.git```
+   ```bash git clone https://github.com/eduardapontel/zingen.git```
 
 - Open `index.html` in your browser.
 
