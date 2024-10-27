@@ -1,6 +1,6 @@
 # Zingen 🎶
 
-This responsive landing page provides an engaging introduction to the app, highlighting Zingen unique features and inviting interface, ensuring a seamless experience for visitors on any device.
+This responsive landing page provides an engaging introduction to the app, highlighting Zingen's unique features and inviting interface. Built with a mobile-first approach, it ensures a seamless experience for visitors on any device.
 
 <br>
 
