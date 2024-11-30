@@ -8,7 +8,7 @@ This responsive landing page provides an engaging introduction to the app, highl
 
 The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1371886246180677672/lp-de-produto).
 
-The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
+The layout showcases the structure, color scheme, and visual design of the webpage, providing a clear reference for the development of the project.
  
 <br> 
 
