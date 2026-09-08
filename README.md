@@ -1,6 +1,7 @@
 # Zingen 🎶
 
-This responsive landing page provides an engaging introduction to the app, highlighting Zingen's unique features and inviting interface. Built with a mobile-first approach, it ensures a seamless experience for visitors on any device.
+This project is a responsive landing page designed to showcase a modern music app and its main features. It focuses on clean visual design, intuitive navigation, and responsive layouts, providing a consistent experience across desktop and mobile devices. Developed with a mobile-first approach, it combines semantic HTML and modular CSS to create a well-structured and maintainable interface.
+
 
 <br>
 
@@ -16,7 +17,7 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 
 - **index.html**: Main HTML file that structures the landing page content.
 - **styles/**: Contains all the CSS files for various sections such as global styles, buttons, cards, and specific page components like the hero, about, and footer sections.
-- **assets/**: Holds images, icons, and other media assets used throughout the page.
+- **assets/**: Contains images, icons, and other media assets used throughout the page.
 
 <br>
 
@@ -27,6 +28,7 @@ The page is structured using semantic HTML5 elements for better accessibility an
 - **Hero**: A captivating introduction to the app with visuals.
 - **About**: Highlights the features and functionalities of Zingen.
 - **Features**: Displays the app's main features with illustrative icons.
+- **Pricing:** Displays the available pricing plans and subscription options.
 - **Download**: Prompts users to download the app with links to respective platforms.
 - **Footer**: Provides contact information and social media links.
 
@@ -71,4 +73,4 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
 ## Notes 📌
 
-This page is static and does not include functionality for buttons or backend integration.
+This is a static front-end project created for demonstration purposes. This page does not include functionality for links, buttons or backend integration.
