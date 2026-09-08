@@ -4,10 +4,10 @@
         position: relative;
 
         & > img {
-            width: 14.5rem;
+            width: 13rem;
             position: absolute;
             bottom: 0;
-            right: -3.5rem;
+            right: -1.5rem;
         }
     }
 
