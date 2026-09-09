@@ -3,7 +3,7 @@
 This project is a responsive landing page designed to showcase a modern music app and its main features. It focuses on clean visual design, intuitive navigation, and responsive layouts, providing a consistent experience across desktop and mobile devices. Developed with a mobile-first approach, it combines semantic HTML and modular CSS to create a well-structured and maintainable interface.
 
 
-<br>
+<br> 
 
 ## Layout ✏️
 
