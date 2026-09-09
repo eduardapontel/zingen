@@ -24,13 +24,13 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 ## HTML Structure 🧱
 
 The page is structured using semantic HTML5 elements for better accessibility and SEO. Key sections include:
-- **Header**: Contains navigation links and the logo.
-- **Hero**: A captivating introduction to the app with visuals.
-- **About**: Highlights the features and functionalities of Zingen.
-- **Features**: Displays the app's main features with illustrative icons.
-- **Pricing:** Displays the available pricing plans and subscription options.
-- **Download**: Prompts users to download the app with links to respective platforms.
-- **Footer**: Provides contact information and social media links.
+- ```header```: Contains navigation links and the logo.
+- ```#hero```: A captivating introduction to the app with visuals.
+- ```#about```: Highlights the features and functionalities of Zingen.
+- ```#features```: Displays the app's main features with illustrative icons.
+- ```#pricing:``` Displays the available pricing plans and subscription options.
+- ```#download```: Prompts users to download the app with links to respective platforms.
+- ```footer```: Provides contact information and social media links.
 
 <br>
 
