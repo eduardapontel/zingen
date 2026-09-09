@@ -15,9 +15,9 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 
 ## Project Structure 🏗️
 
-- **index.html**: Main HTML file that structures the landing page content.
-- **styles/**: Contains all the CSS files for various sections such as global styles, buttons, cards, and specific page components like the hero, about, and footer sections.
-- **assets/**: Contains images, icons, and other media assets used throughout the page.
+- ```index.html```: Main HTML file that structures the landing page content.
+- ```styles/```: Contains all the CSS files for various sections such as global styles, buttons, cards, and specific page components like the hero, about, and footer sections.
+- ```assets/```: Contains images, icons, and other media assets used throughout the page.
 
 <br>
 
@@ -37,18 +37,18 @@ The page is structured using semantic HTML5 elements for better accessibility an
 ## CSS Styling 🎨
 
 The styling is organized into multiple files to maintain separation of concerns:
-- **global.css**: Resets and base styles, including color variables and fonts.
-- **header.css, footer.css**: Styles specific to header and footer sections.
-- **buttons.css**: Styles for buttons used throughout the page.
-- **cards.css**: Layouts for card elements, used to present information.
-- **about.css**: Styles for the "About" section of the page.
-- **features.css**: Styles for the "Features" section, showcasing the app's functionalities.
-- **download.css**: Specific styles for the download section, encouraging users to get the app.
-- **hero.css**: Styles for the hero section, the main visual introduction of the page.
-- **pricing.css**: Styles related to the pricing plans and subscription options.
-- **social.css**: Styles for social media icons and links.
-- **utility.css**: Utility classes for common adjustments like margins, padding, and alignment.
-- **sections.css**: General styles for various sections of the page.
+- ```global.css```: Resets and base styles, including color variables and fonts.
+- ```header.css```, ```footer.css```: Styles specific to header and footer sections.
+- ```buttons.css```: Styles for buttons used throughout the page.
+- ```cards.css```: Layouts for card elements, used to present information.
+- ```about.css```: Styles for the "About" section of the page.
+- ```features.css```: Styles for the "Features" section, showcasing the app's functionalities.
+- ```download.css```: Specific styles for the download section, encouraging users to get the app.
+- ```hero.css```: Styles for the hero section, the main visual introduction of the page.
+- ```pricing.css```: Styles related to the pricing plans and subscription options.
+- ```social.css```: Styles for social media icons and links.
+- ```utility.css```: Utility classes for common adjustments like margins, padding, and alignment.
+- ```sections.css```: General styles for various sections of the page.
 
 <br>
 
@@ -59,7 +59,9 @@ The styling is organized into multiple files to maintain separation of concerns:
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```bash git clone https://github.com/eduardapontel/zingen.git```
+   ```bash
+    git clone https://github.com/eduardapontel/zingen.git
+   ```
 
 - Open `index.html` in your browser.
 
